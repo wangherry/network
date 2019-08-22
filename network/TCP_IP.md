@@ -4,11 +4,11 @@
 ## 我们可以将网络模型可以分为OSI七层和TCP/IP五层
 ![Alt](../image/network/Internet-module.png)
 
-![Alt](../image/network/Internet-module-info.png)
+![Alt](../image/network/internet-module-info.png)
 
 每层常见的设备：
 
-![Alt](../image/network/Internet-module-device.png)
+![Alt](../image/network/internet-module-device.png)
 
 
 # TCP/IP协议的基本框架
